@@ -4,5 +4,7 @@ class Hahah{
         //“this is test”
 
         System.out.println("this is master");
+        System.out.println("this is my life");
+        System.out.println("im the best");
     }
 }
