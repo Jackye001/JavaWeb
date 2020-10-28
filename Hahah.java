@@ -3,5 +3,6 @@ class Hahah{
         System.out.println("this is another things");
         //“this is test”
         System.out.println("this is my life");
+        System.out.println("im the best");
     }
 }
